@@ -1,4 +1,8 @@
 # Deploying-ML-Models-with-Django
-A medium article tutorial on how I deploy a machine learning model with django
+An API containing a simple multi-classification model that predicts the type of diabetes(Type 1,Type 2 or Normal) based on blood sugar, plasma glucose etc
 
-Article: https://medium.com/@aminuisrael2/deploying-ml-models-using-django-rest-api-part-2-84cea50b3c83
+## The Machine Learning Libaries used are;
+Pandas
+numpy
+matplotlib
+seaborn
